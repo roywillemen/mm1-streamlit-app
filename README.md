@@ -31,9 +31,10 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
 
-## How to run locally
+## Run the app:
 
 ```bash
-
 streamlit run app.py
+```
