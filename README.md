@@ -31,3 +31,9 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
+## How to run locally
+
+```bash
+
+streamlit run app.py
